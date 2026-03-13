@@ -32,3 +32,12 @@ const myfunction = function(){
 }
 
 console.log(typeof outsideTemp)
+
+
+//++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Premitive), Heap (Non-Primitive)
+// when stack memory used means get copy of variables created 
+// when heap memory used means get reference of origial value
+
+let myName = "Radhika"
